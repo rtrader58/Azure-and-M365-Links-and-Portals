@@ -170,7 +170,6 @@ https://compliance.microsoft.com/
 
 https://portal.cloudappsecurity.com
 
-
 # Other useful Microsoft Links
 
 ### List of Azure DevOps Organisations
@@ -203,8 +202,10 @@ https://businessaccount.microsoft.com
 
 https://www.microsoft.com/Licensing/servicecenter/default.aspx
 
-### MSDN Portal
+### Microsoft technical documentation and learning for developers and technology professionals.
 
-https://msdn.microsoft.com
+https://docs.microsoft.com/en-us/
+
+Fromerly MSDN Portal https://msdn.microsoft.com
 
 
