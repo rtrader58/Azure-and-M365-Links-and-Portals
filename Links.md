@@ -6,6 +6,18 @@ List of Links and Portals used in Azure and M365 - Updated 8/29/2022
 
 https://portal.azure.com
 
+### Microsoft Entra Portal
+
+http://entra.microsoft.com
+
+### Microsoft Defender for M365
+
+http://security.microsoft.com
+
+### Purview Portal
+
+http://compliance.microsoft.com
+
 ### Preview Portal
 
 https://preview.portal.azure.com
@@ -50,10 +62,6 @@ https://account.activedirectory.windowsazure.com/usermanagement/multifactorverif
 
 https://azure.microsoft.com/en-us/status/
 
-### Microsoft 365 Defender
-
-https://security.microsoft.com
-
 ### Microsoft Defender for Identity
 
 https://portal.atp.azure.com/
@@ -62,7 +70,11 @@ https://portal.atp.azure.com/
 
 https://security.microsoft.com
 
-# Office 365
+# M365
+
+### Join the Microsoft 365 Developer Program today!
+
+https://developer.microsoft.com/en-us/microsoft-365/dev-program
 
 ### Main Landing Page (Not admin)
 
