@@ -1,7 +1,6 @@
 # Azure and M365 links and portals
 
-## Links to various Azure & M365 Admin Portals<br>
-## Links to various other sites related to Azure and M365
+## Links to various Microsoft Portals<br>
  
 ### This repository is provided as a reference
 ### Updated 12/3/2025
