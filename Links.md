@@ -75,31 +75,31 @@ Microsoft Teams Places Space Management - https://places.cloud.microsoft/places/
 Power Apps Maker Portal - https://make.powerapps.com
 Power Automate Maker Portal Microsoft Flow - https://make.powerautomate.com
 Power BI Admin Portal - https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1
-Power Pages Preview - https://make.powerpages.microsoft.com/
-Power Platform admin center - https://admin.powerplatform.microsoft.com
-Phone Number Service Center - https://pstnsd.powerappsportals.com/
-SharePoint Admin Center - https://admin.microsoft.com/sharepoint
-Yammer Admin - https://www.yammer.com/office365/admin
-My Applications (My Apps) - https://myapps.microsoft.com/
-My Access - https://myaccess.microsoft.com/
-Join the Microsoft 365 Developer Program today! - https://developer.microsoft.com/en-us/microsoft-365/dev-program
-o365 Subscriptions View - https://portal.office.com/commerce/manage.aspx?empty=1
-Exchange Admin Center - https://outlook.office365.com/ecp
-OneDrive Admin Center - https://admin.onedrive.com/
-Microsoft Teams Admin Center - https://admin.teams.microsoft.com/
-Power Platform Admin Center - https://admin.powerplatform.microsoft.com/
-Microsoft Flow Admin Center - https://admin.flow.microsoft.com
-PowerApps Admin Center - https://admin.powerapps.com/
-Dynamics 365 Admin Center - https://admin.powerplatform.microsoft.com/environments
+Power Pages Preview - https://make.powerpages.microsoft.com/ <br>
+Power Platform admin center - https://admin.powerplatform.microsoft.com <br>
+Phone Number Service Center - https://pstnsd.powerappsportals.com/ <br>
+SharePoint Admin Center - https://admin.microsoft.com/sharepoint <br>
+Yammer Admin - https://www.yammer.com/office365/admin <br>
+My Applications (My Apps) - https://myapps.microsoft.com/ <br>
+My Access - https://myaccess.microsoft.com/ <br>
+Join the Microsoft 365 Developer Program today! - https://developer.microsoft.com/en-us/microsoft-365/dev-program <br>
+o365 Subscriptions View - https://portal.office.com/commerce/manage.aspx?empty=1 <br>
+Exchange Admin Center - https://outlook.office365.com/ecp <br>
+OneDrive Admin Center - https://admin.onedrive.com/ <br>
+Microsoft Teams Admin Center - https://admin.teams.microsoft.com/ <br>
+Power Platform Admin Center - https://admin.powerplatform.microsoft.com/ <br>
+Microsoft Flow Admin Center - https://admin.flow.microsoft.com <br>
+PowerApps Admin Center - https://admin.powerapps.com/ <br>
+Dynamics 365 Admin Center - https://admin.powerplatform.microsoft.com/environments <br>
 
 # Other useful Microsoft Links
 
-List of Azure DevOps Organisations - https://aex.dev.azure.com
-Visual Studio Subscriptions Administration - https://manage.visualstudio.com
-Services Hub (Premier Support Portal) - https://serviceshub.microsoft.com/databoard
-My Visual Studio & MSDN Benefits - https://my.visualstudio.com
-Microsoft Store for Business - https://businessstore.microsoft.com
-Microsoft technical documentation and learning for developers and technology professionals - https://docs.microsoft.com/en-us/
+List of Azure DevOps Organisations - https://aex.dev.azure.com <br>
+Visual Studio Subscriptions Administration - https://manage.visualstudio.com <br>
+Services Hub (Premier Support Portal) - https://serviceshub.microsoft.com/databoard <br>
+My Visual Studio & MSDN Benefits - https://my.visualstudio.com <br>
+Microsoft Store for Business - https://businessstore.microsoft.com <br>
+Microsoft technical documentation and learning for developers and technology professionals - https://docs.microsoft.com/en-us/ <br>
 
 
 
