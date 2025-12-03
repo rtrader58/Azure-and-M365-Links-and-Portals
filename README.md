@@ -4,7 +4,7 @@
 ## Links to various other sites related to Azure and M365
  
 ### This repository is provided as a reference
-### Updated 11/28/2023
+### Updated 12/3/2025
 
 This repository is maintained by Mike Danseglio and Rick Trader.<br>
 Interface Technical Training.<br>
