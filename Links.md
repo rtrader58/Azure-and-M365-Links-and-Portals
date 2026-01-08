@@ -61,7 +61,7 @@ Microsoft 365 Network Insights Preview - https://portal.office.com/adminportal/h
 # Microsoft 365 Admin Portals
 Microsoft 365 Admin Center - https://admin.cloud.microsoft <br>
 Microsoft 365 Apps Admin Center - https://config.office.com <br>
-Exchange Admin Center (EAC) - https://admin.cloud.microsoft/exchange#/homepage
+Exchange Admin Center (EAC) - https://admin.cloud.microsoft/exchange#/homepage <br>
 Microsoft Intune Admin Center Endpoint Manager - https://intune.microsoft.com <br>
 Microsoft Stream Admin Center - https://web.microsoftstream.com/admin <br>
 Microsoft Purview - https://purview.microsoft.com/ <br>
